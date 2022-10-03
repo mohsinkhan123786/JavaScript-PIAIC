@@ -1,0 +1,13 @@
+Node version 14.17.4 installed.
+Versification was also done usingt this comand
+
+node -v
+
+The Node version I was using was 14.17.4
+
+
+*********************************************************************************************************************
+Note:
+Although i was not familiar with JavaScript but i learned it and attempted this test. I am hoping to get a little bit
+guidance as I was able to complete 99% of the test 
+*********************************************************************************************************************
